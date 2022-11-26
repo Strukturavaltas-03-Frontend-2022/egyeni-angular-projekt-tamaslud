@@ -1,0 +1,13 @@
+.bird__card {
+  height: 570px;
+}
+.card-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.list-group-item {
+  border: 1px 0;
+}
+

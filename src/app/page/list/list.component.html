@@ -1,0 +1,9 @@
+<div class="container col-sm-6 col-md-10 col-xl-11 pt-3">
+  <div class="row col-12 d-flex justify-content-start flex-wrap">
+    <div class="onecard col-sm-12 col-md-6 col-xl-3 mb-4"
+      *ngFor="let birdItem of birds$ | async">
+      <app-card [bird]="birdItem"></app-card>
+    </div>
+  </div>
+</div>
+
