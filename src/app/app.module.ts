@@ -8,6 +8,7 @@ import { NavComponent } from './common/nav/nav.component';
 import { CardComponent } from './common/card/card.component';
 import { HomeComponent } from './page/home/home.component';
 import { ListComponent } from './page/list/list.component';
+import { SearchPipe } from './pipe/search.pipe';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { ListComponent } from './page/list/list.component';
     NavComponent,
     CardComponent,
     HomeComponent,
-    ListComponent
+    ListComponent,
+    SearchPipe
   ],
   imports: [
     BrowserModule,

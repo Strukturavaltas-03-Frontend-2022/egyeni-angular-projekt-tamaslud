@@ -1,0 +1,361 @@
+{
+  "birds": [
+    {
+      "id": 1,
+      "name": "Füles vöcsök (Podiceps auritus)",
+      "image": "/assets/images/podaur_01_g_kokay_szabolcs_c.png",
+      "maxSize": 38,
+      "protected": false
+    },
+    {
+      "id": 2,
+      "name": "Vörösnyakú vöcsök (Podiceps grisegena)",
+      "image": "/assets/images/podena_01_g_kokay_szabolcs_nyar_c.png",
+      "maxSize": 50,
+      "protected": false
+    },
+    {
+      "id": 3,
+      "name": "Feketenyakú vöcsök (Podiceps nigricollis)",
+      "image": "/assets/images/podnig_01_g_kokay_szabolcs_nyar_c.png",
+      "maxSize": 34,
+      "protected": false
+    },
+    {
+      "id": 4,
+      "name": "Búbos vöcsök (Podiceps cristatus)",
+      "image": "/assets/images/podtus_01_g_kokay_szabolcs_c.png",
+      "maxSize": 51,
+      "protected": false
+    },
+    {
+      "id": 5,
+      "name": "Kis vöcsök (Tachybaptus ruficollis)",
+      "image": "/assets/images/tacruf_01_g_kokay_szabolcs_nyar_c.png",
+      "maxSize": 29,
+      "protected": true
+    },
+    {
+      "id": 6,
+      "name": "8",
+      "image": "/assets/images/aloaeg_01_g_kokay_szabolcs_c.png",
+      "maxSize": 34,
+      "protected": true
+    },
+    {
+      "id": 7,
+      "name": "6",
+      "image": "/assets/images/anaacu_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 39,
+      "protected": true
+    },
+    {
+      "id": 8,
+      "name": "3",
+      "image": "/assets/images/anaame_01_g_kokay_szabolcs_c.png",
+      "maxSize": 39,
+      "protected": false
+    },
+    {
+      "id": 9,
+      "name": "9",
+      "image": "/assets/images/anacar_01_g_kokay_szabolcs_c.png",
+      "maxSize": 35,
+      "protected": false
+    },
+    {
+      "id": 10,
+      "name": "3",
+      "image": "/assets/images/anacly_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 39,
+      "protected": true
+    },
+    {
+      "id": 11,
+      "name": "3",
+      "image": "/assets/images/anacre_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 38,
+      "protected": false
+    },
+    {
+      "id": 12,
+      "name": "0",
+      "image": "/assets/images/anadis_01_g_kokay_szabolcs_c.png",
+      "maxSize": 39,
+      "protected": false
+    },
+    {
+      "id": 13,
+      "name": "0",
+      "image": "/assets/images/anapen_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 39,
+      "protected": true
+    },
+    {
+      "id": 14,
+      "name": "2",
+      "image": "/assets/images/anapla_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 38,
+      "protected": true
+    },
+    {
+      "id": 15,
+      "name": "9",
+      "image": "/assets/images/anaque_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 30,
+      "protected": true
+    },
+    {
+      "id": 16,
+      "name": "5",
+      "image": "/assets/images/anastr_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 40,
+      "protected": true
+    },
+    {
+      "id": 17,
+      "name": "1",
+      "image": "/assets/images/ansalb_01_g_kokay_szabolcs_c.png",
+      "maxSize": 36,
+      "protected": false
+    },
+    {
+      "id": 18,
+      "name": "4",
+      "image": "/assets/images/ansans_01_g_kokay_szabolcs_c.png",
+      "maxSize": 33,
+      "protected": false
+    },
+    {
+      "id": 19,
+      "name": "3",
+      "image": "/assets/images/ansbra_01_g_kokay_szabolcs_c.png",
+      "maxSize": 30,
+      "protected": true
+    },
+    {
+      "id": 20,
+      "name": "4",
+      "image": "/assets/images/anscae_01_g_kokay_szabolcs_c.png",
+      "maxSize": 35,
+      "protected": false
+    },
+    {
+      "id": 21,
+      "name": "5",
+      "image": "/assets/images/ansery_01_g_kokay_szabolcs_c.png",
+      "maxSize": 37,
+      "protected": false
+    },
+    {
+      "id": 22,
+      "name": "3",
+      "image": "/assets/images/ansfab_01_g_kokay_szabolcs_c.png",
+      "maxSize": 34,
+      "protected": false
+    },
+    {
+      "id": 23,
+      "name": "5",
+      "image": "/assets/images/ansind_01_g_kokay_szabolcs_c.png",
+      "maxSize": 36,
+      "protected": false
+    },
+    {
+      "id": 24,
+      "name": "2",
+      "image": "/assets/images/aytaff_01_g_kokay_szabolcs_c.png",
+      "maxSize": 40,
+      "protected": false
+    },
+    {
+      "id": 25,
+      "name": "0",
+      "image": "/assets/images/aytfer_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 36,
+      "protected": false
+    },
+    {
+      "id": 26,
+      "name": "7",
+      "image": "/assets/images/aytful_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 36,
+      "protected": false
+    },
+    {
+      "id": 27,
+      "name": "6",
+      "image": "/assets/images/aytmar_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 38,
+      "protected": true
+    },
+    {
+      "id": 28,
+      "name": "6",
+      "image": "/assets/images/aytnyr_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 38,
+      "protected": false
+    },
+    {
+      "id": 29,
+      "name": "2",
+      "image": "/assets/images/braber_01_g_kokay_szabolcs_c.png",
+      "maxSize": 32,
+      "protected": true
+    },
+    {
+      "id": 30,
+      "name": "8",
+      "image": "/assets/images/bracan_01_g_kokay_szabolcs_c.png",
+      "maxSize": 37,
+      "protected": true
+    },
+    {
+      "id": 31,
+      "name": "3",
+      "image": "/assets/images/braleu_01_g_kokay_szabolcs_c.png",
+      "maxSize": 33,
+      "protected": false
+    },
+    {
+      "id": 32,
+      "name": "3",
+      "image": "/assets/images/braruf_01_g_kokay_szabolcs_c.png",
+      "maxSize": 38,
+      "protected": true
+    },
+    {
+      "id": 33,
+      "name": "8",
+      "image": "/assets/images/buccla_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 40,
+      "protected": true
+    },
+    {
+      "id": 34,
+      "name": "8",
+      "image": "/assets/images/clahye_03_g_kokay_szabolcs_him_nyar_c.png",
+      "maxSize": 39,
+      "protected": true
+    },
+    {
+      "id": 35,
+      "name": "1",
+      "image": "/assets/images/cygcol_01_g_kokay_szabolcs_c.png",
+      "maxSize": 31,
+      "protected": true
+    },
+    {
+      "id": 36,
+      "name": "6",
+      "image": "/assets/images/cygcyg_01_g_kokay_szabolcs_c.png",
+      "maxSize": 40,
+      "protected": false
+    },
+    {
+      "id": 37,
+      "name": "8",
+      "image": "/assets/images/cygolo_01_g_kokay_szabolcs_ad_c.png",
+      "maxSize": 35,
+      "protected": false
+    },
+    {
+      "id": 38,
+      "name": "8",
+      "image": "/assets/images/marang_01_g_kokay_szabolcs_c.png",
+      "maxSize": 40,
+      "protected": false
+    },
+    {
+      "id": 39,
+      "name": "0",
+      "image": "/assets/images/melfus_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 31,
+      "protected": true
+    },
+    {
+      "id": 40,
+      "name": "5",
+      "image": "/assets/images/melnig_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 34,
+      "protected": false
+    },
+    {
+      "id": 41,
+      "name": "9",
+      "image": "/assets/images/meralb_01_g_kokay_szabolcs_c.png",
+      "maxSize": 34,
+      "protected": false
+    },
+    {
+      "id": 42,
+      "name": "7",
+      "image": "/assets/images/mermer_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 36,
+      "protected": false
+    },
+    {
+      "id": 43,
+      "name": "5",
+      "image": "/assets/images/merser_01_g_kokay_szabolcs_c.png",
+      "maxSize": 40,
+      "protected": false
+    },
+    {
+      "id": 44,
+      "name": "6",
+      "image": "/assets/images/netruf_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 35,
+      "protected": true
+    },
+    {
+      "id": 45,
+      "name": "5",
+      "image": "/assets/images/oxyjam_01_g_kokay_szablcs_c.png",
+      "maxSize": 32,
+      "protected": true
+    },
+    {
+      "id": 46,
+      "name": "0",
+      "image": "/assets/images/oxyleu_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 39,
+      "protected": true
+    },
+    {
+      "id": 47,
+      "name": "1",
+      "image": "/assets/images/polste_01_g_kokay_szabolcs_c.png",
+      "maxSize": 35,
+      "protected": false
+    },
+    {
+      "id": 48,
+      "name": "7",
+      "image": "/assets/images/sommol_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 40,
+      "protected": true
+    },
+    {
+      "id": 49,
+      "name": "1",
+      "image": "/assets/images/somspe_01_g_kokay_szabolcs_c.png",
+      "maxSize": 31,
+      "protected": true
+    },
+    {
+      "id": 50,
+      "name": "8",
+      "image": "/assets/images/tadfer_01_g_kokay_szabolcs_him_c.png",
+      "maxSize": 32,
+      "protected": false
+    },
+    {
+      "id": 51,
+      "name": "8",
+      "image": "/assets/images/tadtad_01_g_kokay_szabolcs_c.png",
+      "maxSize": 32,
+      "protected": false
+    }
+  ]
+}

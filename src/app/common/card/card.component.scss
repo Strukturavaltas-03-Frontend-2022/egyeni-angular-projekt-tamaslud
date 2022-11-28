@@ -1,5 +1,5 @@
 .bird__card {
-  height: 570px;
+  height: 450px;
 }
 .card-text {
   display: -webkit-box;
@@ -9,5 +9,11 @@
 }
 .list-group-item {
   border: 1px 0;
+}
+card-param {
+  font-weight: 500;
+}
+hidden {
+  visibility: hidden;
 }
 

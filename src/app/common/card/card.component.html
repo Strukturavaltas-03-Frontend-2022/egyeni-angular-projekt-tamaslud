@@ -1,19 +1,21 @@
+
 <div class="card bird__card">
   <img [src]= "bird.image" class="card-img-top" alt="bird">
   <div class="card-body ">
     <h5 class="card-title">{{bird.name}}</h5>
   </div>
-  <div class="card-body card-description">
+  <!-- <div class="card-body card-description">
     <span class="card-text">{{bird.description}}</span>
-  </div>
+  </div> -->
   <div class="card-bottom mt-auto">
     <ul class="list-group list-group-flush">
-      <li class="list-group-item">Max. size : {{bird.maxSize}}</li>
-      <li class="list-group-item">Status: {{bird.protected}}</li>
+      <li class="card-param list-group-item">Hossz : {{bird.maxSize}}cm</li>
+      <li *ngIf="bird.protected" class="hidden card-param list-group-item">védett</li>
+      <li *ngIf="!bird.protected" class="hidden card-param list-group-item">nem védett</li>
     </ul>
     <div class="card-body card-bottom text-center">
-      <a href="#" class="card-link">Edit</a>
-      <a href="#" class="card-link">Delete</a>
+      <a href="#" class="card-link">Szerkeszt</a>
+      <a href="#" class="card-link">Töröl</a>
     </div>
   </div>
 </div>

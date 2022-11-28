@@ -10,6 +10,9 @@ import { BirdService } from 'src/app/service/bird.service';
 })
 export class ListComponent implements OnInit {
 
+  searchPhrase: string = '';
+  searchProperty: string = 'name'
+
   @Input () birdList: Bird[] = [];
 
   constructor(private birdService: BirdService) { }
