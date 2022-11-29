@@ -9,6 +9,8 @@ import { CardComponent } from './common/card/card.component';
 import { HomeComponent } from './page/home/home.component';
 import { ListComponent } from './page/list/list.component';
 import { SearchPipe } from './pipe/search.pipe';
+import { ModalComponent } from './common/modal/modal.component';
+import { EditorComponent } from './page/editor/editor.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { SearchPipe } from './pipe/search.pipe';
     CardComponent,
     HomeComponent,
     ListComponent,
-    SearchPipe
+    SearchPipe,
+    ModalComponent,
+    EditorComponent
   ],
   imports: [
     BrowserModule,

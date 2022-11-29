@@ -3,6 +3,8 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { HomeComponent } from './page/home/home.component';
 import { ListComponent } from './page/list/list.component';
+import { EditorComponent } from './page/editor/editor.component';
+
 
 const routes: Routes = [
   {
@@ -12,6 +14,10 @@ const routes: Routes = [
   {
     path: 'birdlist',
     component: ListComponent,
+  },
+  {
+    path: 'editor',
+    component: EditorComponent,
   },
   {
     path: '**',
